@@ -8,7 +8,7 @@
 Sistema de videollamadas con opciones de compartir, grabar y pintar pantalla. La aplicación funciona con WebRTC, Firebase,
 ReactJS y RTCMultiConnection (<a href="https://github.com/muaz-khan/RTCMultiConnection">https://github.com/muaz-khan/RTCMultiConnection</a>)
 
-Demo: <a href="https://videochannels.herokuapp.com/">ver demo</a>
+Demo: <a target="_blank" href="https://videochannels.herokuapp.com/">ver demo</a>
 
 # Imagenes
 <p align="center">
