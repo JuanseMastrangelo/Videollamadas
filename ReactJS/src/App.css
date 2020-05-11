@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    font-family: "Open Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.mainDiv {
+    margin-left: 100px;
+}
+#root {background: #F2F1F7;}

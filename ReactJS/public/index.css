@@ -1,0 +1,7 @@
+#container {
+    margin: 0px 100px;
+    width: 40vw;
+    height: 30vh;
+    display: inline-block;
+    display: none;
+}
